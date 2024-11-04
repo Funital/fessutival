@@ -1,0 +1,5 @@
+com.example.fessutival.test.app-core-1.6.1-0 /Users/hangeumjun/.gradle/caches/transforms-4/e80b697f3f6379b647d1bda19c174e5c/transformed/core-1.6.1/res
+com.example.fessutival.test.app-androidTest-1 /Users/hangeumjun/Desktop/사인페/Fessutival/app/build/generated/res/resValues/androidTest/debug
+com.example.fessutival.test.app-mergeDebugAndroidTestResources-2 /Users/hangeumjun/Desktop/사인페/Fessutival/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.fessutival.test.app-mergeDebugAndroidTestResources-3 /Users/hangeumjun/Desktop/사인페/Fessutival/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.fessutival.test.app-debugAndroidTest-4 /Users/hangeumjun/Desktop/사인페/Fessutival/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

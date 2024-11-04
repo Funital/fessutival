@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/drawable_ssu_logo.png.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/drawable/ssu_logo.png"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/drawable_ic_reservation.png.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/drawable/ic_reservation.png"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/drawable_ic_home.png.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/drawable/ic_home.png"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/drawable_ic_calendar.png.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/drawable/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/layout_activity_calendar.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/layout_item_event.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/layout/item_event.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/layout_activity_splash.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/drawable_ic_settings.png.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/drawable/ic_settings.png"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/hangeumjun/.gradle/daemon/8.7/com.example.fessutival.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.fessutival.app-debug-31:/layout_item_section.xml.flat",
+        "source": "com.example.fessutival.app-main-33:/layout/item_section.xml"
+    }
+]
